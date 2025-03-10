@@ -1,6 +1,7 @@
 # Adidas Sales Dashboard
 
 This is a Power BI project where we create a comprehensive **Sales Dashboard** for Adidas from scratch. The dashboard provides insights into Adidas' sales performance and trends across various regions, cities, products, and sales methods.
+![Alt text](Dashboard.png)
 
 ## Features
 
